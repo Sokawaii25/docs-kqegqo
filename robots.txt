@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-e9dp3h.indowin.cfd/sitemap.xml
